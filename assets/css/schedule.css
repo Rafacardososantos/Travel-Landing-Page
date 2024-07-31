@@ -1,0 +1,11 @@
+.button-div {
+    /* display: flex; */
+}
+
+.main-container {
+    margin: 15% auto 4% auto;
+}
+
+.hidden {
+    display: none;
+}
